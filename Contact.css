@@ -7,8 +7,9 @@ display:flex;
 
 }
 body{
-  background-image:url('http://i61.photobucket.com/albums/h63/SharanyaKamath/b8f4ad1d68855d0d64108dfbdcccc8014aa3e97a_zpsqyhsy8zc.jpg');
- display:cover;
+  background-image: url('https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-3/background.jpg');
+  background-position: center top;
+  background-size: cover;
 }
 .pic{
   display:flex;
