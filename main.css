@@ -1,17 +1,11 @@
-body {
+
+ body {
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
- background-image: url('http://i61.photobucket.com/albums/h63/SharanyaKamath/3722bfe0-c03b-4ae5-9cc1-5b127130162a_zpshfyspu5d.jpg');
-  background-size: cover;
-align-items: center;
-  color: #000000;
-  height: 500px;
-  text-shadow: 0.25px 0.25px 0.25px #000000;
 }
 
 header {
   padding: 20px 0;
-color:#ffffff;
 }
 
 header .row,
@@ -28,41 +22,18 @@ header h1 {
 header nav {
   display: flex;
   justify-content: flex-end;
-
 }
 
 header p {
   padding: 0 20px;
   margin: 0;
-color: #000000;
 }
 
-
-section .row img {
-  margin: 0 0 30px;
-  width: 100%;
-}
-
-.col-md-6 {
-  margin: 0 0 30px;
-}
-
-.btn.btn-primary {
-  border-radius: 2px;
-  border: 0px;
-  color: #fbd1d5;
-  text-shadow: none;
-  background-color: #000000;
-}
-
-.btn.btn-primary:hover {
+.jumbotron {
+  display: flex;
+  align-items: center;
+  background-image: url('http://i61.photobucket.com/albums/h63/SharanyaKamath/3722bfe0-c03b-4ae5-9cc1-5b127130162a_zpshfyspu5d.jpg');
+  background-size: cover;
   color: #ffffff;
-  background-color: #fbd1d5;
-}
-
-.btn-secondary {
-  background-color: #E8DFE0;
-  color: #ffffff;
-  margin: 0 0 30px;
-}
-
+  
+  height: 500px;
