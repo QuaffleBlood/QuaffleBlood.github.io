@@ -6,6 +6,10 @@ display:flex;
 
 
 }
+body{
+  background-image:url('http://i61.photobucket.com/albums/h63/SharanyaKamath/Yp1uJol_zpsmwrp1olv.jpg');
+ display:cover;
+}
 .pic{
   display:flex;
   margin: 20px;
