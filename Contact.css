@@ -1,0 +1,58 @@
+.clinic{
+ border: 1px solid #000;
+  margin: 20px;
+  padding: 30px;
+display:flex;
+
+
+}
+.pic{
+  display:flex;
+  margin: 20px;
+border:20px;
+ }
+
+.jumbotron h2{
+text-align:center;
+ font-family: 'Lato', sans-serif;}
+
+a {
+  color: #204156;
+  text-decoration: none;
+}
+
+.page-title {
+  text-align: center;
+  font-weight: 500;
+}
+
+nav {
+  background-color: #FFF;
+}
+
+nav li {
+  display: inline;
+  margin: 0;
+  padding: 0 10px;
+}
+
+nav ul {
+  display: inline;
+}
+
+.contact-btn {
+  float: right;
+}
+
+.contact-btn a {
+  cursor: pointer;
+  margin-right: 30px;
+  padding: 8px 18px;
+  border: 1px solid #204156;
+  position:relative;
+
+}
+
+.contact-btn a:active {
+top:2px;
+}
