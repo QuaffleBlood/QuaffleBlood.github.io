@@ -31,7 +31,10 @@ header p {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url('https://images1-fabric.practo.com/jaws-dental-clinic-implant-centre-chennai-1459252934-56fa6ec6c5339.JPG');
+  background-image: url('body{
+  background-image:url('http://i61.photobucket.com/albums/h63/SharanyaKamath/Yp1uJol_zpsmwrp1olv.jpg');
+ display:cover;
+}');
   background-size: cover;
   color: #ffffff;
   
