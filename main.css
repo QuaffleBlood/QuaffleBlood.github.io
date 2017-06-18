@@ -35,5 +35,16 @@ header p {
   background-image: url('http://i61.photobucket.com/albums/h63/SharanyaKamath/3722bfe0-c03b-4ae5-9cc1-5b127130162a_zpshfyspu5d.jpg');
   background-size: cover;
   color: #000000;
-  
-  height: 500px;
+  height: 500px;}
+
+.jumbotron h2 {
+  font-size: 60px;
+  font-weight: 700;
+  margin: 0;
+  color: #000000;
+}
+
+.jumbotron h3 {
+  margin: 20px 0 20px;
+  color: #000000;
+}
